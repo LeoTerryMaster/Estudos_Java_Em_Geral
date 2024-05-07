@@ -18,5 +18,4 @@ public class Local{
 		this.endereco = endereco;
 	}
 
-
 }
