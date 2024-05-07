@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="381c6fb0-01f5-4f02-8c7c-0410c97e0f12" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoWhile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoWhile2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoWhile2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/exercicios/FluxoCondicionalSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/exercicios/FluxoCondicionalSwitch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/exercicios/Variaveis.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/exercicios/Variaveis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays10.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays11.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays7.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays8.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/ArraysMultidimencionais/ArraysMultdimencionais.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/ArraysMultidimencionais/ArraysMultdimencionais.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/ArraysMultidimencionais/ArraysMultdimencionais2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/ArraysMultidimencionais/ArraysMultdimencionais2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/ArraysMultidimencionais/ArraysMultdimencionais3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/ArraysMultidimencionais/ArraysMultdimencionais3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Fundamentos/Fundamentos.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/Fundamentos/Fundamentos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Fundamentos/HelloWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/Fundamentos/HelloWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Operadores/Operadores.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/Operadores/Operadores.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Operadores/Operadores2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/Operadores/Operadores2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Operadores/Operadores3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/Operadores/Operadores3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Operadores/Operadores4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/Operadores/Operadores4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Variavel/Variaveis.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/Variavel/Variaveis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Variavel/Variaveis2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/Variavel/Variaveis2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Variavel/Variaveis3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/Variavel/Variaveis3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Variavel/Variaveis4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/Variavel/Variaveis4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/condicionais/Estruturacondicional.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/condicionais/Estruturacondicional.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/condicionais/Estruturacondicional2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/condicionais/Estruturacondicional2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/condicionais/Estruturacondicional3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/condicionais/Estruturacondicional3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/condicionais/Estruturacondicional4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/condicionais/Estruturacondicional4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/condicionais/Estruturacondicional5Ternario.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/condicionais/Estruturacondicional5Ternario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/condicionais/Estruturacondicional6Switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/condicionais/Estruturacondicional6Switch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/condicionais/Estruturacondicional6Ternario.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/condicionais/Estruturacondicional6Ternario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/repeticao/EstruturasDeRepeticao2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/repeticao/EstruturasDeRepeticao2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/repeticao/EstruturasDeRepeticao3While.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/repeticao/EstruturasDeRepeticao3While.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/repeticao/EstruturasDeRepeticao4DoWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/repeticao/EstruturasDeRepeticao4DoWhile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/repeticao/EstruturasDeRepeticaoWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/repeticao/EstruturasDeRepeticaoWhile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/repeticao/EstruturasDeRepeticaofor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/repeticao/EstruturasDeRepeticaofor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/repeticao/EstruturasDeRepeticaofor2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/repeticao/EstruturasDeRepeticaofor2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/repeticao/FlucoFor3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/repeticao/FlucoFor3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/repeticao/FlucoFor5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/lp/repeticao/FlucoFor5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/exercicio/carro/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/poo/exercicio/carro/Carro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/exercicio/carro/banco/BancoDeDados.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/poo/exercicio/carro/banco/BancoDeDados.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/exercicio/carro/teste/CarroObjeto.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/poo/exercicio/carro/teste/CarroObjeto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/calculadora/Calculadora.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/calculadora/Calculadora.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/calculadora/teste/CalcuuladoraTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/calculadora/teste/CalcuuladoraTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/calculadora2/Calcular.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/calculadora2/Calcular.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/calculadora2/test/CalcularTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/calculadora2/test/CalcularTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/pessoa/Imprimir.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/pessoa/Imprimir.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/pessoa/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/pessoa/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/pessoa/test/EstudanteTeste1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/pessoa/test/EstudanteTeste1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/pessoa/test/EstudanteTeste2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/pessoa/test/EstudanteTeste2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/pessoa/test/ProfessorTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/pessoa/test/ProfessorTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/pessoa/test/ProfessorTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/pessoa/test/ProfessorTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Xti/jdbc/crud/AlterarBanco.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Xti/jdbc/crud/AlterarBanco.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Xti/jdbc/crud/ContaCrud.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Xti/jdbc/crud/ContaCrud.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Xti/jdbc/crud/ExcluirDados.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Xti/jdbc/crud/ExcluirDados.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Xti/jdbc/crud/LerBanco.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Xti/jdbc/crud/LerBanco.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Xti/jdbc/crud/ObjetoTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Xti/jdbc/crud/ObjetoTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Xti/jdbc/crud/ObjetoTesteAlterar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Xti/jdbc/crud/ObjetoTesteAlterar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Xti/jdbc/crud/ObjetoTesteExcluir.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Xti/jdbc/crud/ObjetoTesteExcluir.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Xti/jdbc/pessoa/Pessoas.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Xti/jdbc/pessoa/Pessoas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Xti/jdbc/pessoa/test/ConecaoTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Xti/jdbc/pessoa/test/ConecaoTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Xti/jdbc/pessoa/test/Conexao.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Xti/jdbc/pessoa/test/Conexao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Xti/jdbc/pessoa/test/ConsultarSql.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Xti/jdbc/pessoa/test/ConsultarSql.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Xti/jdbc/pessoa/test/pessoasTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Xti/jdbc/pessoa/test/pessoasTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Xti/threads/PingPong.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Xti/threads/PingPong.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Xti/threads/notifyAll/Consumidor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Xti/threads/notifyAll/Consumidor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Xti/threads/notifyAll/PonteNSincronizada.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Xti/threads/notifyAll/PonteNSincronizada.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Xti/threads/notifyAll/PonteSincronizada.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Xti/threads/notifyAll/PonteSincronizada.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Xti/threads/notifyAll/PonteTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Xti/threads/notifyAll/PonteTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Xti/threads/notifyAll/Produtor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Xti/threads/notifyAll/Produtor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Xti/threads/runable/PingPongRunable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Xti/threads/runable/PingPongRunable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Xti/threads/synchronize/Compras.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Xti/threads/synchronize/Compras.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Xti/threads/synchronize/Compras2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Xti/threads/synchronize/Compras2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Xti/threads/synchronize/ContaConjunta.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Xti/threads/synchronize/ContaConjunta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/Aleatorio2OperadoresMatematicosbasicos.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/Aleatorio2OperadoresMatematicosbasicos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/Aleatorio3multPlicar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/Aleatorio3multPlicar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/Aleatorio4Impressao.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/Aleatorio4Impressao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/Aleatorio5Calculos.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/Aleatorio5Calculos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/AleatorioOperadorMatematicos.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/AleatorioOperadorMatematicos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/Diminuir.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/Diminuir.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/Divisor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/Divisor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/ExercicioLife.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/ExercicioLife.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/Multplicador.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/Multplicador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/PlayerDatabase.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/PlayerDatabase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/Somador.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/Somador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/basicos/Dividir.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/basicos/Dividir.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/basicos/Multiplicar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/basicos/Multiplicar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/basicos/Somar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/basicos/Somar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/seminarios/Seminario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/seminarios/Seminario.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LeoTerryMaster&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:LeoTerryMaster/Estudos_Java_Em_Geral.git&quot;,
+    &quot;accountId&quot;: &quot;a8e22c95-ad63-4640-aaad-faacf9604e00&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2g8U0GVPuxIvoWhsNkULe0yjUEk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AssociacaoTest.executor": "Run",
+    "Application.FlucoFor.executor": "Run",
+    "Application.Threads_1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "I:/GITHUB/PROJETOS_EM_ANDAMENTOS/Estudos_Java_Em_Geral/Estudos_Java_Em_Geral/src/DevDojo/poo/orientacaoobjeto/heranca",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\GITHUB\PROJETOS_EM_ANDAMENTOS\Estudos_Java_Em_Geral\Estudos_Java_Em_Geral\src\DevDojo\poo\orientacaoobjeto\heranca" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AssociacaoTest">
+    <configuration name="AssociacaoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.orientacaoobjeto.seminarios.test.AssociacaoTest" />
+      <module name="Estudos_Java_Em_Geral" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DevDojo.poo.orientacaoobjeto.seminarios.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlucoFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DevDojo.exercicios.FlucoFor" />
+      <module name="Estudos_Java_Em_Geral" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DevDojo.exercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Threads_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Theads.Simples.Threads_1" />
+      <module name="Estudos_Java_Em_Geral" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Theads.Simples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AssociacaoTest" />
+        <item itemvalue="Application.FlucoFor" />
+        <item itemvalue="Application.Threads_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="381c6fb0-01f5-4f02-8c7c-0410c97e0f12" name="Changes" comment="" />
+      <created>1715078480062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715078480062</updated>
+    </task>
+    <servers />
+  </component>
+</project>
