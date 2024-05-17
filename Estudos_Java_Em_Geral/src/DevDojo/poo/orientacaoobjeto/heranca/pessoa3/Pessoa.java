@@ -2,9 +2,9 @@ package DevDojo.poo.orientacaoobjeto.heranca.pessoa3;
 
 public class Pessoa{
 
-	private String nome;
-	private String cpf;
-	private Endereco endereco;
+	protected String nome;
+	protected String cpf;
+	protected Endereco endereco;
 
 
 	public Pessoa(String nome){
