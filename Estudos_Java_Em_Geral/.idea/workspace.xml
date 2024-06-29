@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73ef2c1f-ba2d-43ab-8724-276e191e0ff6" name="Changes" comment="Synchronized">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+    <list default="true" id="73ef2c1f-ba2d-43ab-8724-276e191e0ff6" name="Changes" comment="Classes Abstratas">
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo2/polimosrfismo/CalcularImpostos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo2/polimosrfismo/Computador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo2/polimosrfismo/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo2/polimosrfismo/Taxavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo2/polimosrfismo/Test/ProtudoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo2/polimosrfismo/Tomate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +23,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -49,22 +62,60 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DataBaseTest.executor": "Run",
     "Application.FuncionarioTest.executor": "Run",
+    "Application.ProtudoTest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "last_opened_file_path": "I:/GITHUB/PROJETOS_EM_ANDAMENTOS/Estudos_Java_Em_Geral/Estudos_Java_Em_Geral/src/DevDojo/poo/orientacaoobjeto/polimosrfismo2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="DevDojo.poo.orientacaoobjeto.abstraras" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\GITHUB\PROJETOS_EM_ANDAMENTOS\Estudos_Java_Em_Geral\Estudos_Java_Em_Geral\src\DevDojo\poo\orientacaoobjeto\polimosrfismo2" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.EstudanteTeste1">
+    <configuration name="DataBaseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="jdk-17s" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.orientacaoobjeto.interfaces.Test.DataBaseTest" />
+      <module name="Estudos_Java_Em_Geral" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DevDojo.poo.orientacaoobjeto.interfaces.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EstudanteTeste1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="jdk-17s" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.orientacaoobjeto.pessoa.test.EstudanteTeste1" />
+      <module name="Estudos_Java_Em_Geral" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DevDojo.poo.orientacaoobjeto.pessoa.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FuncionarioTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="jdk-17s" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="DevDojo.poo.orientacaoobjeto.abstraras.Test.FuncionarioTest" />
       <module name="Estudos_Java_Em_Geral" />
       <extension name="coverage">
@@ -77,8 +128,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProtudoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="jdk-17s" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.orientacaoobjeto.polimosrfismo.Test.ProtudoTest" />
+      <module name="Estudos_Java_Em_Geral" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DevDojo.poo.orientacaoobjeto.polimosrfismo.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="jdk-17s" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="Estudos_Java_Em_Geral" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.EstudanteTeste1" />
+      <item itemvalue="Application.DataBaseTest" />
+      <item itemvalue="Application.FuncionarioTest" />
+      <item itemvalue="Application.ProtudoTest" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EstudanteTeste1" />
+        <item itemvalue="Application.DataBaseTest" />
+        <item itemvalue="Application.ProtudoTest" />
         <item itemvalue="Application.FuncionarioTest" />
       </list>
     </recent_temporary>
@@ -108,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719328527418</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Classes Abstratas">
+      <option name="closed" value="true" />
+      <created>1719329037781</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719329037781</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,7 +215,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Métodos Abstratos" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="Synchronized" />
-    <option name="LAST_COMMIT_MESSAGE" value="Synchronized" />
+    <MESSAGE value="Classes Abstratas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes Abstratas" />
   </component>
 </project>
