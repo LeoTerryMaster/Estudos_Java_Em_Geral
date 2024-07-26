@@ -4,20 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73ef2c1f-ba2d-43ab-8724-276e191e0ff6" name="Changes" comment="Classes Abstratas">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo2/polimosrfismo/CalcularImpostos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo2/polimosrfismo/Computador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo2/polimosrfismo/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo2/polimosrfismo/Taxavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo2/polimosrfismo/Test/ProtudoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo2/polimosrfismo/Tomate.java" afterDir="false" />
+    <list default="true" id="73ef2c1f-ba2d-43ab-8724-276e191e0ff6" name="Changes" comment="Classes Abstratas&#10;Prolimorfismo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/jokempo/Jogos.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/jokempo/Jogos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo2/polimosrfismo/Test/ProtudoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo2/polimosrfismo/Test/ProtudoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios/aleatorios/jokempo/Jogos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicios/aleatorios/jokempo/Jogos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,6 +55,9 @@
     &quot;accountId&quot;: &quot;a8e22c95-ad63-4640-aaad-faacf9604e00&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo2/polimosrfismo/Produto.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -57,21 +66,27 @@
 }</component>
   <component name="ProjectId" id="2iKS3d3P5YzgXP5wi5wp0tK4jq6" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.DataBaseTest.executor": "Run",
+    "Application.DevDojo.poo.orientacaoobjeto.polimosrfismo2.polimosrfismo.Test.ProtudoTest.executor": "Run",
+    "Application.EstudanteTeste1.executor": "Run",
     "Application.FuncionarioTest.executor": "Run",
+    "Application.Jogos.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.ProtudoTest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "extract.method.default.visibility": "public",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "I:/GITHUB/PROJETOS_EM_ANDAMENTOS/Estudos_Java_Em_Geral/Estudos_Java_Em_Geral/src/DevDojo/poo/orientacaoobjeto/polimosrfismo2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "last_opened_file_path": "I:/GITHUB/PROJETOS_EM_ANDAMENTOS/Projetos_Estudos",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -81,8 +96,14 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="I:\GITHUB\PROJETOS_EM_ANDAMENTOS\Estudos_Java_Em_Geral\Estudos_Java_Em_Geral\src\DevDojo\poo\orientacaoobjeto\polimosrfismo2" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="I:\GITHUB\PROJETOS_EM_ANDAMENTOS\Estudos_Java_Em_Geral\Estudos_Java_Em_Geral\src\exercicios\aleatorios\snake\img" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="DevDojo.poo.orientacaoobjeto.polimosrfismo2.polimosrfismo" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.EstudanteTeste1">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="DataBaseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="jdk-17s" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -91,6 +112,21 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DevDojo.poo.orientacaoobjeto.interfaces.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DevDojo.poo.orientacaoobjeto.polimosrfismo2.polimosrfismo.Test.ProtudoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="jdk-17s" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.orientacaoobjeto.polimosrfismo2.polimosrfismo.Test.ProtudoTest" />
+      <module name="Estudos_Java_Em_Geral" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DevDojo.poo.orientacaoobjeto.polimosrfismo2.polimosrfismo.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,14 +149,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FuncionarioTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Jogos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="jdk-17s" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.orientacaoobjeto.abstraras.Test.FuncionarioTest" />
+      <option name="MAIN_CLASS_NAME" value="exercicios.aleatorios.jokempo.Jogos" />
       <module name="Estudos_Java_Em_Geral" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DevDojo.poo.orientacaoobjeto.abstraras.Test.*" />
+          <option name="PATTERN" value="exercicios.aleatorios.jokempo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,14 +164,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProtudoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="jdk-17s" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.orientacaoobjeto.polimosrfismo.Test.ProtudoTest" />
+      <option name="MAIN_CLASS_NAME" value="exercicios.aleatorios.snake.src.snake.main.Main" />
       <module name="Estudos_Java_Em_Geral" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DevDojo.poo.orientacaoobjeto.polimosrfismo.Test.*" />
+          <option name="PATTERN" value="exercicios.aleatorios.snake.src.snake.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,17 +188,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.EstudanteTeste1" />
+      <item itemvalue="Application.Jogos" />
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.DataBaseTest" />
-      <item itemvalue="Application.FuncionarioTest" />
-      <item itemvalue="Application.ProtudoTest" />
+      <item itemvalue="Application.DevDojo.poo.orientacaoobjeto.polimosrfismo2.polimosrfismo.Test.ProtudoTest" />
+      <item itemvalue="Application.EstudanteTeste1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Jogos" />
+        <item itemvalue="Application.DevDojo.poo.orientacaoobjeto.polimosrfismo2.polimosrfismo.Test.ProtudoTest" />
         <item itemvalue="Application.EstudanteTeste1" />
         <item itemvalue="Application.DataBaseTest" />
-        <item itemvalue="Application.ProtudoTest" />
-        <item itemvalue="Application.FuncionarioTest" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +237,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719329037781</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Classes Abstratas&#10;Prolimorfismo">
+      <option name="closed" value="true" />
+      <created>1719674098064</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719674098064</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,6 +264,7 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="Synchronized" />
     <MESSAGE value="Classes Abstratas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes Abstratas" />
+    <MESSAGE value="Classes Abstratas&#10;Prolimorfismo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes Abstratas&#10;Prolimorfismo" />
   </component>
 </project>

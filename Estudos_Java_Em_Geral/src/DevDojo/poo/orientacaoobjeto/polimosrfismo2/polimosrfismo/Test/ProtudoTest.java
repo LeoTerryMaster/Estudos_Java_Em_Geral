@@ -8,16 +8,21 @@ import DevDojo.poo.orientacaoobjeto.polimosrfismo2.polimosrfismo.Tomate;
 public class ProtudoTest {
 
     public static void main(String[] args) {
-        Computador comprador= new Computador("Mac",1200);
+        Computador comprador = new Computador("Mac", 1200);
 
-        Tomate tomate= new Tomate("Tomates",6.50);
+        Tomate tomate = new Tomate("Tomates", 6.50);
 
-    comprador.calcularImposto();
-    tomate.calcularImposto();
+        Tomate tomas = new Tomate("Tomatesss", 2.50);
+
+
+        comprador.calcularImposto();
+        tomate.calcularImposto();
 
         CalcularImpostos.calcularImpostosComputador(comprador);
         System.out.println("=============================");
         CalcularImpostos.calcularImpostoTomate(tomate);
+
+        CalcularImpostos.calcularImpostoTomate(tomas);
 
 
     }
