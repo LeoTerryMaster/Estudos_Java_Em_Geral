@@ -43,7 +43,7 @@ public class JogadorTesteTeclado{
 		System.out.println("    Time ");
 		time.imiprimir();
 		System.out.println("=================");
-
+s.close();
 	}
 
 }
