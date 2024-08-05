@@ -4,858 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df627669-9d6a-4296-a501-af9491daa2cb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="df627669-9d6a-4296-a501-af9491daa2cb" name="Changes" comment="Revisão&#10;e restart">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estudos_Java_Em_Geral.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Estudos_Java_Em_Geral.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoWhile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoWhile2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoWhile2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/exercicios/FluxoCondicionalSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/exercicios/FluxoCondicionalSwitch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/exercicios/Variaveis.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/exercicios/Variaveis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Arrays/Arrays9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/ArraysMultidimencionais/ArraysMultdimencionais.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/ArraysMultidimencionais/ArraysMultdimencionais2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/ArraysMultidimencionais/ArraysMultdimencionais3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Fundamentos/Fundamentos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Fundamentos/HelloWord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Operadores/Operadores.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Operadores/Operadores2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Operadores/Operadores3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Operadores/Operadores4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Variavel/Variaveis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Variavel/Variaveis2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Variavel/Variaveis3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/Variavel/Variaveis4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/condicionais/Estruturacondicional.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/condicionais/Estruturacondicional2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/condicionais/Estruturacondicional3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/condicionais/Estruturacondicional4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/condicionais/Estruturacondicional5Ternario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/condicionais/Estruturacondicional6Switch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/condicionais/Estruturacondicional6Ternario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/repeticao/EstruturasDeRepeticao2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/repeticao/EstruturasDeRepeticao3While.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/repeticao/EstruturasDeRepeticao4DoWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/repeticao/EstruturasDeRepeticaoWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/repeticao/EstruturasDeRepeticaofor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/repeticao/EstruturasDeRepeticaofor2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/repeticao/FlucoFor3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/lp/repeticao/FlucoFor5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/exercicio/carro/Carro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/exercicio/carro/banco/BancoDeDados.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/exercicio/carro/teste/CarroObjeto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/Enumeracao/Cliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/Enumeracao/Test/ClienteTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/Enumeracao/TipoCliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/Enumeracao/TipoPagamento$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/Enumeracao/TipoPagamento$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/Enumeracao/TipoPagamento.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/Gassociacao/Jogador.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/Gassociacao/test/JogadorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/Gassociacao2/Jogador.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/Gassociacao2/Time.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/Gassociacao2/test/JogadorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/Gassociacao3/Jogador.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/Gassociacao3/Time.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/Gassociacao3/test/JogadorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/Gassociacao3/test/JogadorTesteTeclado.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/abstraras/Desenvolverdor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/abstraras/Funcionario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/abstraras/Gerente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/abstraras/Test/FuncionarioTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/blocodeinicializacao/Anime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/blocodeinicializacao/test/AdnimeTeste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/blocodeinicializacao2/Anime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/blocodeinicializacao2/test/AdnimeTeste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/calculadora/Calculadora.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/calculadora/teste/CalcuuladoraTeste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/calculadora2/Calcular.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/calculadora2/test/CalcularTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/construtores/Anime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/construtores/Anime2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/construtores/test/AnimeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/construtores/test/AnimeTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/funcionario/Funcionario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/funcionario/test/FuncionarioTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/heranca/modificadores/Carro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/heranca/modificadores/Carro2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/heranca/modificadores/Carro3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/heranca/modificadores/Comprador.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/heranca/modificadores/Ferrari.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/heranca/modificadores/Test/Carrotest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/heranca/pessoa/Endereco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/heranca/pessoa/Funcionario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/heranca/pessoa/Pessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/heranca/pessoa/test/Pessoa1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/heranca/pessoa2/Endereco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/heranca/pessoa2/Funcionario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/heranca/pessoa2/Pessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/heranca/pessoa2/test/Pessoa1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/heranca/pessoa3/Endereco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/heranca/pessoa3/Funcionario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/heranca/pessoa3/Pessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/heranca/pessoa3/test/Pessoa1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/heranca/pessoa4/Endereco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/heranca/pessoa4/Funcionario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/heranca/pessoa4/Pessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/heranca/pessoa4/test/Pessoa1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/heranca/pessoa4/test/Pessoa2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/heranca/sobreescrita/Anime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/heranca/sobreescrita/Test/AnimeImprime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/modificadorestaticos/Carro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/modificadorestaticos/test/CarroTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/pessoa/Imprimir.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/pessoa/Pessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/pessoa/test/EstudanteTeste1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/pessoa/test/EstudanteTeste2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/pessoa/test/ProfessorTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/pessoa/test/ProfessorTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/seminarios/Local.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/seminarios/Professor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/seminarios/Seminario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/seminarios/test/Alunos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/seminarios/test/AssociacaoTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/subrecarga/Anime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/DevDojo/poo/orientacaoobjeto/subrecarga/test/Animetest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threads/Simples/MeuRunnbable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threads/Simples/Threads_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threads/Synchronized/Synchronized_1$MeuRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threads/Synchronized/Synchronized_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threads/Synchronized/Synchronized_2$MeuRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threads/Synchronized/Synchronized_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threads/Synchronized/Synchronized_3$MeuRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threads/Synchronized/Synchronized_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threads/Synchronized/Synchronized_4$MeuRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threads/Synchronized/Synchronized_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threads/Synchronized/Synchronized_5$MeuRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threads/Synchronized/Synchronized_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threads/Synchronized/Synchronized_6$MeuRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Threads/Synchronized/Synchronized_6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Xti/jdbc/crud/AlterarBanco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Xti/jdbc/crud/ContaCrud.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Xti/jdbc/crud/ExcluirDados.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Xti/jdbc/crud/LerBanco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Xti/jdbc/crud/ObjetoTeste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Xti/jdbc/crud/ObjetoTesteAlterar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Xti/jdbc/crud/ObjetoTesteExcluir.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Xti/jdbc/pessoa/Pessoas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Xti/jdbc/pessoa/test/ConecaoTeste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Xti/jdbc/pessoa/test/Conexao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Xti/jdbc/pessoa/test/ConsultarSql.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Xti/jdbc/pessoa/test/pessoasTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Xti/threads/PingPong.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Xti/threads/notifyAll/Consumidor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Xti/threads/notifyAll/Ponte.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Xti/threads/notifyAll/PonteNSincronizada.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Xti/threads/notifyAll/PonteSincronizada.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Xti/threads/notifyAll/PonteTeste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Xti/threads/notifyAll/Produtor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Xti/threads/runable/PingPongRunable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Xti/threads/synchronize/Compras.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Xti/threads/synchronize/Compras2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Xti/threads/synchronize/ContaConjunta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/collections/maps/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/collections/maps/Program.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/collections/maps/Program2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/collections/maps/Program2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/collections/maps/Program3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/collections/maps/Program3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/collections/maps/Program4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/collections/maps/Program4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/Aleatorio2OperadoresMatematicosbasicos.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/Aleatorio2OperadoresMatematicosbasicos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/Aleatorio3multPlicar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/Aleatorio3multPlicar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/Aleatorio4Impressao.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/Aleatorio4Impressao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/Aleatorio5Calculos.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/Aleatorio5Calculos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/AleatorioOperadorMatematicos.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/AleatorioOperadorMatematicos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/Diminuir.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/Diminuir.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/Divisor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/Divisor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/ExercicioLife.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/ExercicioLife.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/Multplicador.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/Multplicador.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/PlayerDatabase.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/PlayerDatabase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/Somador.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/Somador.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/basicos/Dividir.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/basicos/Dividir.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/basicos/Multiplicar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/basicos/Multiplicar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/basicos/Somar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/basicos/Somar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/jokempo/Jogos.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/jokempo/Jogos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/allclasses-index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/allpackages-index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/Generico.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/aninhamento/AninhamentoComClassFeita.ListenerAninhado.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/aninhamento/AninhamentoComClassFeita.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/aninhamento/ClassAninhadaComAninimo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/aninhamento/class-use/AninhamentoComClassFeita.ListenerAninhado.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/aninhamento/class-use/AninhamentoComClassFeita.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/aninhamento/class-use/ClassAninhadaComAninimo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/aninhamento/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/aninhamento/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/aninhamento/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/anotacao/Anotacao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/anotacao/Cabecalho.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/class-use/Generico.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/collection/CollectionList.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/collection/CollectionMap.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/collection/CollectionQueue.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/collection/CollectionSet.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/collection/CollectionUtilitario.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/collection/Collectionss.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/collection/class-use/CollectionList.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/collection/class-use/CollectionMap.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/collection/class-use/CollectionQueue.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/collection/class-use/CollectionSet.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/collection/class-use/CollectionUtilitario.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/collection/class-use/Collectionss.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/collection/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/collection/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/collection/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/datas/Datas.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/datas/Datas2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/datas/Datas3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/datas/class-use/Datas.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/datas/class-use/Datas2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/datas/class-use/Datas3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/datas/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/datas/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/datas/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/errosetratamentos/Assertions.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/errosetratamentos/Dividir.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/errosetratamentos/Dividir2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/errosetratamentos/ErrosComuns.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/errosetratamentos/SenhaInvalidaException.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/errosetratamentos/SenhaTeste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/errosetratamentos/class-use/Assertions.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/errosetratamentos/class-use/Dividir.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/errosetratamentos/class-use/Dividir2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/errosetratamentos/class-use/ErrosComuns.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/errosetratamentos/class-use/SenhaInvalidaException.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/errosetratamentos/class-use/SenhaTeste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/errosetratamentos/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/errosetratamentos/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/errosetratamentos/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/exercicios/Calculadora.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/exercicios/Dados.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/exercicios/ExercicioDeDiretorios.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/exercicios/Fibonac.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/exercicios/TelaSimples.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/exercicios/class-use/Calculadora.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/exercicios/class-use/Dados.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/exercicios/class-use/ExercicioDeDiretorios.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/exercicios/class-use/Fibonac.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/exercicios/class-use/TelaSimples.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/exercicios/conta/Conta.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/exercicios/conta/Exibir.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/exercicios/conta/class-use/Conta.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/exercicios/conta/class-use/Exibir.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/exercicios/conta/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/exercicios/conta/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/exercicios/conta/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/exercicios/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/exercicios/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/exercicios/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/exercicios/sistemadevalidacaodedata/ValidacaoData.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/exercicios/sistemadevalidacaodedata/class-use/ValidacaoData.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/exercicios/sistemadevalidacaodedata/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/exercicios/sistemadevalidacaodedata/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/exercicios/sistemadevalidacaodedata/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/expressaoregular/ExpressoaRegular.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/expressaoregular/class-use/ExpressoaRegular.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/expressaoregular/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/expressaoregular/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/expressaoregular/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/Conversos.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/Conversos2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/box/Box.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/box/ControlCombo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/box/class-use/Box.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/box/class-use/ControlCombo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/box/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/box/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/box/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/class-use/Conversos.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/class-use/Conversos2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/contro/ControLelabel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/contro/ControLelabel2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/contro/ControleTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/contro/ControleTextArea.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/contro/class-use/ControLelabel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/contro/class-use/ControLelabel2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/contro/class-use/ControleTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/contro/class-use/ControleTextArea.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/contro/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/contro/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/contro/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/eventos/Eventos.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/eventos/class-use/Eventos.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/eventos/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/eventos/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/eventos/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/janela01/Janela01.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/janela01/Layouts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/janela01/Layouts02.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/janela01/Layouts03.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/janela01/Layouts04.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/janela01/Layouts05.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/janela01/class-use/Janela01.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/janela01/class-use/Layouts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/janela01/class-use/Layouts02.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/janela01/class-use/Layouts03.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/janela01/class-use/Layouts04.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/janela01/class-use/Layouts05.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/janela01/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/janela01/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/janela01/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/gui/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/io/Arquivo4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/io/Arquivo5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/io/Arquivo6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/io/Arquivo7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/io/Arquivos.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/io/Arquivos2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/io/class-use/Arquivo4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/io/class-use/Arquivo5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/io/class-use/Arquivo6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/io/class-use/Arquivo7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/io/class-use/Arquivos.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/io/class-use/Arquivos2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/io/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/io/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/io/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/io/revisao/Arquivo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/io/revisao/Arquivo2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/io/revisao/class-use/Arquivo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/io/revisao/class-use/Arquivo2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/io/revisao/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/io/revisao/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/io/revisao/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/AutoBoxings.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/Comentarios.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/arrayssimples/ArraysLists.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/arrayssimples/ArraysSimples.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/arrayssimples/class-use/ArraysLists.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/arrayssimples/class-use/ArraysSimples.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/arrayssimples/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/arrayssimples/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/arrayssimples/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/class-use/AutoBoxings.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/class-use/Comentarios.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/constantes/Constantes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/constantes/class-use/Constantes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/constantes/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/constantes/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/constantes/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/entradadedatos/EntradaDeDatos.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/entradadedatos/class-use/EntradaDeDatos.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/entradadedatos/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/entradadedatos/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/entradadedatos/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/fluxocondicional/Uso_do_Foreach.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/fluxocondicional/Uso_do_for.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/fluxocondicional/Whiles_Fluxos.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/fluxocondicional/class-use/Uso_do_Foreach.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/fluxocondicional/class-use/Uso_do_for.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/fluxocondicional/class-use/Whiles_Fluxos.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/fluxocondicional/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/fluxocondicional/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/fluxocondicional/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/garbagecolector/GarbageColector.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/garbagecolector/class-use/GarbageColector.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/garbagecolector/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/garbagecolector/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/garbagecolector/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/loops/Loops.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/loops/class-use/Loops.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/loops/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/loops/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/loops/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/tiposprimitivos/TiposPrimitivos.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/tiposprimitivos/class-use/TiposPrimitivos.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/tiposprimitivos/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/tiposprimitivos/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/tiposprimitivos/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/variavel/Variavel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/variavel/class-use/Variavel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/variavel/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/variavel/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/variavel/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/wrappers/Wrappers.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/wrappers/class-use/Wrappers.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/wrappers/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/wrappers/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/lp/wrappers/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/maths/MathsTestes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/maths/class-use/MathsTestes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/maths/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/maths/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/maths/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/numeros/Numeros.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/numeros/class-use/Numeros.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/numeros/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/numeros/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/numeros/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/cachorro1/Cachorro.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/cachorro1/CachorroTeste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/cachorro1/class-use/Cachorro.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/cachorro1/class-use/CachorroTeste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/cachorro1/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/cachorro1/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/cachorro1/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/compusicao/Carro.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/compusicao/CarroTeste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/compusicao/Motor.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/compusicao/class-use/Carro.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/compusicao/class-use/CarroTeste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/compusicao/class-use/Motor.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/compusicao/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/compusicao/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/compusicao/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/construtores/Carro.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/construtores/CarroTeste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/construtores/class-use/Carro.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/construtores/class-use/CarroTeste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/construtores/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/construtores/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/construtores/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/conta/Conta.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/conta/ContaTeste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/conta/class-use/Conta.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/conta/class-use/ContaTeste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/conta/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/conta/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/conta/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/debug/DebugExemplo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/debug/class-use/DebugExemplo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/debug/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/debug/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/debug/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/enumeracao/Enuns.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/enumeracao/EnunsTeste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/enumeracao/Medidas.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/enumeracao/class-use/Enuns.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/enumeracao/class-use/EnunsTeste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/enumeracao/class-use/Medidas.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/enumeracao/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/enumeracao/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/enumeracao/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/funcionarios/Funcionarios.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/funcionarios/FuncionariosTeste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/funcionarios/class-use/Funcionarios.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/funcionarios/class-use/FuncionariosTeste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/funcionarios/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/funcionarios/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/funcionarios/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/galinhas/Galinhas.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/galinhas/GalinhasTeste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/galinhas/class-use/Galinhas.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/galinhas/class-use/GalinhasTeste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/galinhas/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/galinhas/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/galinhas/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/herancas/Animal.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/herancas/AnimalTeste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/herancas/Cachorro.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/herancas/Galinha.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/herancas/class-use/Animal.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/herancas/class-use/AnimalTeste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/herancas/class-use/Cachorro.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/herancas/class-use/Galinha.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/herancas/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/herancas/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/herancas/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/matematia/Matematica.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/matematia/MatematicaTeste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/matematia/class-use/Matematica.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/matematia/class-use/MatematicaTeste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/matematia/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/matematia/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/matematia/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/matematica2/Matematica2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/matematica2/Matematica2Teste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/matematica2/class-use/Matematica2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/matematica2/class-use/Matematica2Teste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/matematica2/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/matematica2/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/matematica2/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/Animal.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/AnimalTeste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/Cachorro.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/Galinha.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/class-use/Animal.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/class-use/AnimalTeste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/class-use/Cachorro.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/class-use/Galinha.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/interfaces/AreaCalculavel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/interfaces/Cubo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/interfaces/Interfaceteste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/interfaces/Quadrado.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/interfaces/VolumeCalculavel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/interfaces/class-use/AreaCalculavel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/interfaces/class-use/Cubo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/interfaces/class-use/Interfaceteste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/interfaces/class-use/Quadrado.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/interfaces/class-use/VolumeCalculavel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/interfaces/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/interfaces/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/interfaces/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/matematica/Dividir.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/matematica/Multiplicacao.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/matematica/Operacaomatematica.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/matematica/OperacaomatematicaTeste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/matematica/Soma.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/matematica/class-use/Dividir.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/matematica/class-use/Multiplicacao.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/matematica/class-use/Operacaomatematica.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/matematica/class-use/OperacaomatematicaTeste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/matematica/class-use/Soma.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/matematica/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/matematica/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/matematica/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/polimorfismo/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/sobrecargas/Matematica3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/sobrecargas/Matematica3Teste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/sobrecargas/class-use/Matematica3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/sobrecargas/class-use/Matematica3Teste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/sobrecargas/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/sobrecargas/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/poo/sobrecargas/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/recursividade/Recursividade.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/recursividade/class-use/Recursividade.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/recursividade/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/recursividade/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/recursividade/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/cachorro/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/cachorro/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/cachorro/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/compisicao/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/compisicao/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/compisicao/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/contrutores/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/contrutores/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/contrutores/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/heranca/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/heranca/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/heranca/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/herancaconstrutor/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/herancaconstrutor/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/herancaconstrutor/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/interfaces/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/interfaces/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/interfaces/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/matematica/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/matematica/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/matematica/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/matematica2/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/matematica2/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/matematica2/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/metotoscomparametos/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/metotoscomparametos/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/metotoscomparametos/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/polimorfismo/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/polimorfismo/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/polimorfismo/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/polimorfismoabstratas/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/polimorfismoabstratas/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/polimorfismoabstratas/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/sobrecarca/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/sobrecarca/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/revisãoorientacaoaoobjeto/sobrecarca/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/seriaza/Serializa2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/seriaza/Serializar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/seriaza/class-use/Serializa2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/seriaza/class-use/Serializar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/seriaza/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/seriaza/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/seriaza/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/stringmultavel/StringsBuildeBuffer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/stringmultavel/class-use/StringsBuildeBuffer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/stringmultavel/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/stringmultavel/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/stringmultavel/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/stringsoperacoes/ClassStrings.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/stringsoperacoes/class-use/ClassStrings.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/stringsoperacoes/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/stringsoperacoes/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/stringsoperacoes/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/stringtokens/StringTokens.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/stringtokens/class-use/StringTokens.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/stringtokens/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/stringtokens/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/stringtokens/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/PingPong.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/PingPongRunnable.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/class-use/PingPong.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/class-use/PingPongRunnable.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/compra/Compras.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/compra/ContaConjunta.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/compra/class-use/Compras.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/compra/class-use/ContaConjunta.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/compra/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/compra/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/compra/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/garbagecolletor/GarbageColletor.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/garbagecolletor/class-use/GarbageColletor.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/garbagecolletor/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/garbagecolletor/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/garbagecolletor/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/ponte/Consumidores.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/ponte/Ponte.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/ponte/PonteNaoSincornizada.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/ponte/PonteSincornizada.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/ponte/PonteTeste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/ponte/Produtoras.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/ponte/class-use/Consumidores.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/ponte/class-use/Ponte.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/ponte/class-use/PonteNaoSincornizada.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/ponte/class-use/PonteSincornizada.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/ponte/class-use/PonteTeste.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/ponte/class-use/Produtoras.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/ponte/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/ponte/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/curso_free/threads/ponte/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/element-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/exercicios/Numeracao.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/exercicios/Temperatura.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/exercicios/class-use/Numeracao.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/exercicios/class-use/Temperatura.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/exercicios/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/exercicios/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/exercicios/package-use.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-11.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-12.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-13.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-14.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-15.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-16.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-17.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-18.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-19.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-20.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-21.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-22.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-8.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index-files/index-9.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/jquery-ui.overrides.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/legal/COPYRIGHT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/legal/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/legal/jquery.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/legal/jqueryUI.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/member-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/module-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/overview-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/package-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/resources/glass.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/resources/x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/script-dir/jquery-3.6.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/script-dir/jquery-ui.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/script-dir/jquery-ui.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/serialized-form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tag-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/type-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/Arrays/Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/Arrays/Arrays10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/Arrays/Arrays11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/Arrays/Arrays2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/Arrays/Arrays3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/Arrays/Arrays4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/Arrays/Arrays5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/Arrays/Arrays6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/Arrays/Arrays7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/Arrays/Arrays8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/Arrays/Arrays9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/ArraysMultidimencionais/ArraysMultdimencionais.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/ArraysMultidimencionais/ArraysMultdimencionais2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/ArraysMultidimencionais/ArraysMultdimencionais3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/Fundamentos/Fundamentos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/Fundamentos/HelloWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/Operadores/Operadores.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/Operadores/Operadores2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/Operadores/Operadores3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/Operadores/Operadores4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/Variavel/Variaveis.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/Variavel/Variaveis2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/Variavel/Variaveis3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/Variavel/Variaveis4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/condicionais/Estruturacondicional.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/condicionais/Estruturacondicional2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/condicionais/Estruturacondicional3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/condicionais/Estruturacondicional4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/condicionais/Estruturacondicional5Ternario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/condicionais/Estruturacondicional6Switch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/condicionais/Estruturacondicional6Ternario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/repeticao/EstruturasDeRepeticao2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/repeticao/EstruturasDeRepeticao3While.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/repeticao/EstruturasDeRepeticao4DoWhile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/repeticao/EstruturasDeRepeticaoWhile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/repeticao/EstruturasDeRepeticaofor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/repeticao/EstruturasDeRepeticaofor2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/repeticao/FlucoFor3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/lp/repeticao/FlucoFor5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/exercicio/carro/Carro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/exercicio/carro/banco/BancoDeDados.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/exercicio/carro/teste/CarroObjeto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/Enumeracao/Cliente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/Enumeracao/Test/ClienteTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/Enumeracao/TipoCliente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/Enumeracao/TipoPagamento.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/Gassociacao/Jogador.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/Gassociacao/test/JogadorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/Gassociacao2/Jogador.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/Gassociacao2/Time.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/Gassociacao2/test/JogadorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/Gassociacao3/Jogador.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/Gassociacao3/Time.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/Gassociacao3/test/JogadorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/Gassociacao3/test/JogadorTesteTeclado.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/abstraras/Desenvolverdor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/abstraras/Funcionario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/abstraras/Gerente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/abstraras/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/abstraras/Test/FuncionarioTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/blocodeinicializacao/Anime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/blocodeinicializacao/test/AdnimeTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/blocodeinicializacao2/Anime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/blocodeinicializacao2/test/AdnimeTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/calculadora/Calculadora.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/calculadora/teste/CalcuuladoraTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/calculadora2/Calcular.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/calculadora2/test/CalcularTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/construtores/Anime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/construtores/Anime2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/construtores/test/AnimeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/construtores/test/AnimeTest2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/funcionario/Funcionario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/funcionario/test/FuncionarioTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/heranca/modificadores/Carro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/heranca/modificadores/Carro2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/heranca/modificadores/Carro3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/heranca/modificadores/Comprador.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/heranca/modificadores/Ferrari.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/heranca/modificadores/Test/Carrotest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/heranca/pessoa/Endereco.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/heranca/pessoa/Funcionario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/heranca/pessoa/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/heranca/pessoa/test/Pessoa1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/heranca/pessoa2/Endereco.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/heranca/pessoa2/Funcionario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/heranca/pessoa2/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/heranca/pessoa2/test/Pessoa1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/heranca/pessoa3/Endereco.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/heranca/pessoa3/Funcionario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/heranca/pessoa3/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/heranca/pessoa3/test/Pessoa1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/heranca/pessoa4/Endereco.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/heranca/pessoa4/Funcionario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/heranca/pessoa4/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/heranca/pessoa4/test/Pessoa1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/heranca/pessoa4/test/Pessoa2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/heranca/sobreescrita/Anime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/heranca/sobreescrita/Test/AnimeImprime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/interfaces/DataBaseLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/interfaces/DataLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/interfaces/DataRemove.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/interfaces/FileDataLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/interfaces/Test/DataBaseTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/modificadorestaticos/Carro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/modificadorestaticos/test/CarroTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/pessoa/Imprimir.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/pessoa/Pessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/pessoa/test/EstudanteTeste1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/pessoa/test/EstudanteTeste2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/pessoa/test/ProfessorTest1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/pessoa/test/ProfessorTest2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo/CalcularImpostos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo/Computador.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo/Produto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo/Taxavel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo/Test/ProtudoTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo/Tomate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo2/polimosrfismo/CalcularImpostos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo2/polimosrfismo/Computador.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo2/polimosrfismo/Produto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo2/polimosrfismo/Taxavel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo2/polimosrfismo/Test/ProtudoTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/polimosrfismo2/polimosrfismo/Tomate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/seminarios/Local.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/seminarios/Professor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/seminarios/Seminario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/seminarios/test/Alunos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/seminarios/test/AssociacaoTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/subrecarga/Anime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/orientacaoobjeto/subrecarga/test/Animetest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/Simples/MeuRunnbable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/Simples/Threads_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/Synchronized/Synchronized_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/Synchronized/Synchronized_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/Synchronized/Synchronized_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/Synchronized/Synchronized_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/Synchronized/Synchronized_5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Threads/Synchronized/Synchronized_6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xti/jdbc/crud/AlterarBanco.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xti/jdbc/crud/ContaCrud.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xti/jdbc/crud/ExcluirDados.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xti/jdbc/crud/LerBanco.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xti/jdbc/crud/ObjetoTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xti/jdbc/crud/ObjetoTesteAlterar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xti/jdbc/crud/ObjetoTesteExcluir.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xti/jdbc/pessoa/Pessoas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xti/jdbc/pessoa/test/ConecaoTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xti/jdbc/pessoa/test/Conexao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xti/jdbc/pessoa/test/ConsultarSql.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xti/jdbc/pessoa/test/pessoasTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xti/threads/PingPong.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xti/threads/notifyAll/Consumidor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xti/threads/notifyAll/Ponte.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xti/threads/notifyAll/PonteNSincronizada.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xti/threads/notifyAll/PonteSincronizada.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xti/threads/notifyAll/PonteTeste.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xti/threads/notifyAll/Produtor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xti/threads/runable/PingPongRunable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xti/threads/synchronize/Compras.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xti/threads/synchronize/Compras2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Xti/threads/synchronize/ContaConjunta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eercicios_aleatorios/scannerbinary/ScanBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicios/scannerbinary/ScanBinary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -877,6 +29,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -888,7 +41,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;git@github.com:LeoTerryMaster/Estudos_Java_Em_Geral.git&quot;,
-    &quot;accountId&quot;: &quot;a8e22c95-ad63-4640-aaad-faacf9604e00&quot;
+    &quot;accountId&quot;: &quot;8e226fb9-cd75-452f-b499-dde3d6126f42&quot;
   }
 }</component>
   <component name="ProjectCodeStyleSettingsMigration">
@@ -905,26 +58,130 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Aritimeticos.executor": "Run",
+    "Application.Aritimeticos4.executor": "Run",
+    "Application.Arrays01.executor": "Run",
+    "Application.Arrays04.executor": "Run",
+    "Application.ArraysMultDimencionais.executor": "Run",
+    "Application.ArraysMultDimencionais2.executor": "Run",
+    "Application.ArraysMultDimencionais3.executor": "Run",
+    "Application.ArraysMultDimencionais4.executor": "Run",
+    "Application.ArraysMultDimencionais5.executor": "Run",
+    "Application.ArraysMultDimencionais6.executor": "Run",
+    "Application.CalculadoraTeste.executor": "Run",
+    "Application.CalcularTeste.executor": "Run",
+    "Application.CalcularTeste1.executor": "Run",
+    "Application.CarroTeste.executor": "Run",
+    "Application.Comentarios.executor": "Run",
+    "Application.Exercicio.executor": "Debug",
+    "Application.FlucoFor.executor": "Run",
+    "Application.FlucoFor2.executor": "Run",
+    "Application.Fluxo.executor": "Run",
+    "Application.FluxoBreack.executor": "Run",
+    "Application.FluxoRepeticaoFor.executor": "Run",
+    "Application.FluxoSwitc.executor": "Run",
+    "Application.FluxoSwitch.executor": "Debug",
+    "Application.Fluxos.executor": "Debug",
+    "Application.FluxosContinue.executor": "Debug",
+    "Application.FuncionarioTeste.executor": "Run",
     "Application.HelloWorld.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.ModificardorAcessoTestes.executor": "Run",
+    "Application.Program.executor": "Run",
+    "Application.Relacionais.executor": "Run",
+    "Application.Relacionais2.executor": "Run",
+    "Application.Relacionais3.executor": "Run",
+    "Application.Taxas.executor": "Run",
+    "Application.TiposPrimitivos.executor": "Run",
+    "Application.TiposPrimitivosStrings.executor": "Run",
+    "Application.fluxoCondicional.executor": "Run",
+    "Application.fluxoCondicional1.executor": "Run",
+    "Application.fluxoCondicional4.executor": "Run",
+    "Application.fluxoCondicional6.executor": "Run",
+    "Application.fluxoCondicionalTernario.executor": "Run",
+    "Application.fluxoCondicionalTernario2.executor": "Run",
+    "Application.main.executor": "Run",
+    "Notification.DisplayName-DoNotAsk-WindowsDefender": "Microsoft Defender configuration",
+    "Notification.DoNotAsk-WindowsDefender": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "I:/GITHUB/PROJETOS_EM_ANDAMENTOS/Estudos_Java_Em_Geral/Estudos_Java_Em_Geral",
     "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="19" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="DevDojo.lp.helloworld.HelloWorld" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DevDojo.poo.varargs.teste" />
+      <recent name="DevDojo.lp.arrays.dimencional" />
+      <recent name="DevDojo.lp.arrays" />
+      <recent name="DevDojo.lp.estruturascondicioais" />
+      <recent name="DevDojo.lp.operadores" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ModificardorAcessoTestes">
+    <configuration name="CalcularTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.varargs.teste.CalcularTeste" />
       <module name="Estudos_Java_Em_Geral" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DevDojo.lp.helloworld.*" />
+          <option name="PATTERN" value="DevDojo.poo.varargs.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalcularTeste1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.varargs.teste.CalcularTeste1" />
+      <module name="Estudos_Java_Em_Geral" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DevDojo.poo.varargs.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FuncionarioTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.varargs.exercicios.teste.FuncionarioTeste" />
+      <module name="Estudos_Java_Em_Geral" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DevDojo.poo.varargs.exercicios.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.introducaoclasses.testes.Main" />
+      <module name="Estudos_Java_Em_Geral" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DevDojo.poo.introducaoclasses.testes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModificardorAcessoTestes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.modificadoracesso.testes.ModificardorAcessoTestes" />
+      <module name="Estudos_Java_Em_Geral" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DevDojo.poo.modificadoracesso.testes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -934,7 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.ModificardorAcessoTestes" />
+        <item itemvalue="Application.FuncionarioTeste" />
+        <item itemvalue="Application.CalcularTeste1" />
+        <item itemvalue="Application.CalcularTeste" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -947,6 +208,51 @@
       <option name="presentableId" value="Default" />
       <updated>1722119721684</updated>
     </task>
+    <task id="LOCAL-00001" summary="Revisão&#10;e restart">
+      <option name="closed" value="true" />
+      <created>1722149203501</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722149203501</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="exercicios" />
+    <MESSAGE value="Revisão&#10;e restart" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revisão&#10;e restart" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DevDojo/lp/operadores/Relacionais2.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DevDojo/lp/operadores/Relacionais3.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DevDojo/lp/operadores/Aritimeticos4.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DevDojo/lp/estruturascondicioais/fluxoCondicional1.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DevDojo/lp/estruturascondicioais/FluxoSwitch.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
