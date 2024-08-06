@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df627669-9d6a-4296-a501-af9491daa2cb" name="Changes" comment="Revisão&#10;e restart">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +56,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AnimeEstaticoTeste.executor": "Run",
+    "Application.AnimesConstrutorTestes.executor": "Run",
+    "Application.AnimesTestes.executor": "Run",
     "Application.Aritimeticos.executor": "Run",
     "Application.Aritimeticos4.executor": "Run",
     "Application.Arrays01.executor": "Run",
@@ -71,6 +72,7 @@
     "Application.CalculadoraTeste.executor": "Run",
     "Application.CalcularTeste.executor": "Run",
     "Application.CalcularTeste1.executor": "Run",
+    "Application.CarroEstaticoTeste.executor": "Run",
     "Application.CarroTeste.executor": "Run",
     "Application.Comentarios.executor": "Run",
     "Application.Exercicio.executor": "Debug",
@@ -92,6 +94,7 @@
     "Application.Relacionais2.executor": "Run",
     "Application.Relacionais3.executor": "Run",
     "Application.Taxas.executor": "Run",
+    "Application.Testes.executor": "Run",
     "Application.TiposPrimitivos.executor": "Run",
     "Application.TiposPrimitivosStrings.executor": "Run",
     "Application.fluxoCondicional.executor": "Run",
@@ -116,20 +119,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DevDojo.poo.blocoinicializacao" />
+      <recent name="DevDojo.poo.construtores" />
       <recent name="DevDojo.poo.varargs.teste" />
       <recent name="DevDojo.lp.arrays.dimencional" />
       <recent name="DevDojo.lp.arrays" />
-      <recent name="DevDojo.lp.estruturascondicioais" />
-      <recent name="DevDojo.lp.operadores" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ModificardorAcessoTestes">
-    <configuration name="CalcularTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.varargs.teste.CalcularTeste" />
+  <component name="RunManager" selected="Application.AnimeEstaticoTeste">
+    <configuration name="AnimeEstaticoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.blocoinicializacao.testesestatico.AnimeEstaticoTeste" />
       <module name="Estudos_Java_Em_Geral" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DevDojo.poo.varargs.teste.*" />
+          <option name="PATTERN" value="DevDojo.poo.blocoinicializacao.testesestatico.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalcularTeste1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.varargs.teste.CalcularTeste1" />
+    <configuration name="AnimesConstrutorTestes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.construtores.teste.AnimesConstrutorTestes" />
       <module name="Estudos_Java_Em_Geral" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DevDojo.poo.varargs.teste.*" />
+          <option name="PATTERN" value="DevDojo.poo.construtores.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FuncionarioTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.varargs.exercicios.teste.FuncionarioTeste" />
+    <configuration name="AnimesTestes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.sobrecarga.testes.AnimesTestes" />
       <module name="Estudos_Java_Em_Geral" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DevDojo.poo.varargs.exercicios.teste.*" />
+          <option name="PATTERN" value="DevDojo.poo.sobrecarga.testes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.introducaoclasses.testes.Main" />
+    <configuration name="CarroEstaticoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.blocoinicializacao.testesestatico.CarroEstaticoTeste" />
       <module name="Estudos_Java_Em_Geral" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DevDojo.poo.introducaoclasses.testes.*" />
+          <option name="PATTERN" value="DevDojo.poo.blocoinicializacao.testesestatico.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ModificardorAcessoTestes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.modificadoracesso.testes.ModificardorAcessoTestes" />
+    <configuration name="Testes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.blocoinicializacao.testes.Testes" />
       <module name="Estudos_Java_Em_Geral" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DevDojo.poo.modificadoracesso.testes.*" />
+          <option name="PATTERN" value="DevDojo.poo.blocoinicializacao.testes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ModificardorAcessoTestes" />
-        <item itemvalue="Application.FuncionarioTeste" />
-        <item itemvalue="Application.CalcularTeste1" />
-        <item itemvalue="Application.CalcularTeste" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.AnimeEstaticoTeste" />
+        <item itemvalue="Application.CarroEstaticoTeste" />
+        <item itemvalue="Application.Testes" />
+        <item itemvalue="Application.AnimesConstrutorTestes" />
+        <item itemvalue="Application.AnimesTestes" />
       </list>
     </recent_temporary>
   </component>
