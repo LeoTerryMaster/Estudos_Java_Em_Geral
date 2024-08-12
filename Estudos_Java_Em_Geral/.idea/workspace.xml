@@ -75,6 +75,7 @@
     "Application.CarroEstaticoTeste.executor": "Run",
     "Application.CarroTeste.executor": "Run",
     "Application.Comentarios.executor": "Run",
+    "Application.EscolaTeste.executor": "Run",
     "Application.Exercicio.executor": "Debug",
     "Application.FlucoFor.executor": "Run",
     "Application.FlucoFor2.executor": "Run",
@@ -87,6 +88,9 @@
     "Application.FluxosContinue.executor": "Debug",
     "Application.FuncionarioTeste.executor": "Run",
     "Application.HelloWorld.executor": "Run",
+    "Application.JogadorTeste3.executor": "Run",
+    "Application.JogadorTestes.executor": "Run",
+    "Application.JogadorTestes2.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.ModificardorAcessoTestes.executor": "Run",
     "Application.Program.executor": "Run",
@@ -119,14 +123,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DevDojo.poo.associacao.jogador" />
+      <recent name="DevDojo.poo.associacao" />
+      <recent name="DevDojo.poo.associacao.testes" />
       <recent name="DevDojo.poo.blocoinicializacao" />
       <recent name="DevDojo.poo.construtores" />
-      <recent name="DevDojo.poo.varargs.teste" />
-      <recent name="DevDojo.lp.arrays.dimencional" />
-      <recent name="DevDojo.lp.arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AnimeEstaticoTeste">
+  <component name="RunManager" selected="Application.JogadorTeste3">
     <configuration name="AnimeEstaticoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DevDojo.poo.blocoinicializacao.testesestatico.AnimeEstaticoTeste" />
       <module name="Estudos_Java_Em_Geral" />
@@ -140,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnimesConstrutorTestes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.construtores.teste.AnimesConstrutorTestes" />
+    <configuration name="EscolaTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.associacao.escola.testes.EscolaTeste" />
       <module name="Estudos_Java_Em_Geral" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DevDojo.poo.construtores.teste.*" />
+          <option name="PATTERN" value="DevDojo.poo.associacao.escola.testes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnimesTestes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.sobrecarga.testes.AnimesTestes" />
+    <configuration name="JogadorTeste3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.associacao.jogador.teste.JogadorTeste3" />
       <module name="Estudos_Java_Em_Geral" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DevDojo.poo.sobrecarga.testes.*" />
+          <option name="PATTERN" value="DevDojo.poo.associacao.jogador.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarroEstaticoTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.blocoinicializacao.testesestatico.CarroEstaticoTeste" />
+    <configuration name="JogadorTestes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.associacao.jogador.teste.JogadorTestes" />
       <module name="Estudos_Java_Em_Geral" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DevDojo.poo.blocoinicializacao.testesestatico.*" />
+          <option name="PATTERN" value="DevDojo.poo.associacao.jogador.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Testes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.blocoinicializacao.testes.Testes" />
+    <configuration name="JogadorTestes2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.associacao.jogador.teste.JogadorTestes2" />
       <module name="Estudos_Java_Em_Geral" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DevDojo.poo.blocoinicializacao.testes.*" />
+          <option name="PATTERN" value="DevDojo.poo.associacao.jogador.teste.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JogadorTeste3" />
+        <item itemvalue="Application.EscolaTeste" />
+        <item itemvalue="Application.JogadorTestes2" />
+        <item itemvalue="Application.JogadorTestes" />
         <item itemvalue="Application.AnimeEstaticoTeste" />
-        <item itemvalue="Application.CarroEstaticoTeste" />
-        <item itemvalue="Application.Testes" />
-        <item itemvalue="Application.AnimesConstrutorTestes" />
-        <item itemvalue="Application.AnimesTestes" />
       </list>
     </recent_temporary>
   </component>
@@ -254,6 +258,11 @@
           <url>file://$PROJECT_DIR$/src/DevDojo/lp/estruturascondicioais/FluxoSwitch.java</url>
           <line>10</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DevDojo/poo/associacao/jogador/Time.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
