@@ -5,28 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="525bb0d9-0d66-4269-9ba4-4399e76a20c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DevDojo/poo/excecoes/exceptions/StackOverFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DevDojo/poo/excecoes/exceptions1/RunTimeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DevDojo/poo/excecoes/exceptions2/ExceptionTestes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DevDojo/poo/excecoes/exceptionsMult4/Leitor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DevDojo/poo/excecoes/exceptionsMult4/Leitor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DevDojo/poo/excecoes/exceptionsMult4/RunTimeExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DevDojo/poo/excecoes/runtimeexception/ExceptionTestes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DevDojo/poo/excecoes/runtimeexception/RunTimeExceptionTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DevDojo/poo/excecoes/runtimeexception2/ExceptionTestes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DevDojo/poo/excecoes/runtimeexception2/RunTimeExceptionTeste2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DevDojo/poo/excecoes/runtimeexception3/LoginException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios/aleatorios/exceptions/Lancamentos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estudos_Java_Em_Geral.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Estudos_Java_Em_Geral.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/DevDojo/exercicios/FlucoFor3.class" afterDir="false" />
@@ -112,6 +91,7 @@
       <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/imc/Imc2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/imc/Imc2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/exercicios/aleatorios/jokempo/Jogos.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/aleatorios/jokempo/Jogos.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/exercicios/scannerbinary/ScanBinary.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercicios/scannerbinary/ScanBinary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DevDojo/poo/excecoeswrappers/Wrappes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DevDojo/poo/excecoeswrappers/Wrappes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,12 +114,12 @@
     &quot;assignee&quot;: &quot;LeoTerryMaster&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:LeoTerryMaster/Estudos_Java_Em_Geral.git",
-    "accountId": "8e226fb9-cd75-452f-b499-dde3d6126f42"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:LeoTerryMaster/Estudos_Java_Em_Geral.git&quot;,
+    &quot;accountId&quot;: &quot;8e226fb9-cd75-452f-b499-dde3d6126f42&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -148,20 +128,21 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.DevDojo.poo.excecoes.exceptionsMult3.RunTimeExceptions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExceptionTestes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LoginInvaligoException.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RunTimeExceptions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Teste.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/media/terrymaster/ARQUIVOS _PROJETOS/GITHUB/PROJETOS_EM_ANDAMENTOS/Estudos_Java_Em_Geral/Estudos_Java_Em_Geral/src/DevDojo/poo/excecoes/runtimeexception3&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DevDojo.poo.excecoes.exceptionsMult3.RunTimeExceptions.executor": "Run",
+    "Application.ExceptionTestes.executor": "Run",
+    "Application.LoginInvaligoException.executor": "Run",
+    "Application.RunTimeExceptions.executor": "Run",
+    "Application.StringsClass.executor": "Run",
+    "Application.Teste.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/media/terrymaster/ARQUIVOS _PROJETOS/GITHUB/PROJETOS_EM_ANDAMENTOS/Estudos_Java_Em_Geral/Estudos_Java_Em_Geral/src/DevDojo/poo/excecoes/runtimeexception3"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/DevDojo/poo/excecoes/runtimeexception3" />
@@ -170,7 +151,7 @@
       <recent name="$PROJECT_DIR$/src/DevDojo/poo/excecoes/exceptionsMult3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Teste">
+  <component name="RunManager" selected="Application.StringsClass">
     <configuration name="DevDojo.poo.excecoes.exceptionsMult2.RunTimeExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DevDojo.poo.excecoes.exceptionsMult2.RunTimeExceptions" />
       <module name="Estudos_Java_Em_Geral" />
@@ -210,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunTimeExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.excecoes.exceptionsMult.RunTimeExceptions" />
+    <configuration name="StringsClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DevDojo.poo.strings.packed.StringsClass" />
       <module name="Estudos_Java_Em_Geral" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DevDojo.poo.excecoes.exceptionsMult.*" />
+          <option name="PATTERN" value="DevDojo.poo.strings.packed.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringsClass" />
         <item itemvalue="Application.Teste" />
         <item itemvalue="Application.LoginInvaligoException" />
         <item itemvalue="Application.DevDojo.poo.excecoes.exceptionsMult3.RunTimeExceptions" />
         <item itemvalue="Application.DevDojo.poo.excecoes.exceptionsMult2.RunTimeExceptions" />
-        <item itemvalue="Application.RunTimeExceptions" />
       </list>
     </recent_temporary>
   </component>
