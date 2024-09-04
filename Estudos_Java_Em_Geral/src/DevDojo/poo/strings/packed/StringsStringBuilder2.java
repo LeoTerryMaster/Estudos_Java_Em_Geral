@@ -13,7 +13,7 @@ public class StringsStringBuilder2{
 		sb.reverse();
 		System.out.println(sb);
 		
-		sb.replace(0, 0, null);
+//		sb.replace(0, 0, null);
 	}
 
 
