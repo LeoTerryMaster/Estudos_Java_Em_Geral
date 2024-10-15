@@ -4,7 +4,6 @@ import javax.swing.JOptionPane;
 
 public class Imc2{
 
-
 	public static void main(String[] args){
 
 		String peso = JOptionPane.showInputDialog("Qual seu peso:");
