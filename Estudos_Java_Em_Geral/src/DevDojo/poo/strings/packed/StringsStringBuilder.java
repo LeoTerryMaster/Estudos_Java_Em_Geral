@@ -6,7 +6,7 @@ public class StringsStringBuilder{
 	public static void main(String[] args){
 
 		long inicio = System.currentTimeMillis();
-		concatBuilder(10_000);
+		concatBuilder(100_000);
 		long fim = System.currentTimeMillis();
 
 		System.out.println("Tempo gasto para StringBuilder " + (fim - inicio) + " ms");
