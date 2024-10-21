@@ -18,11 +18,12 @@ public class DataFormats{
 		dFormats[4] = DateFormat.getDateInstance(DateFormat.MEDIUM);
 		dFormats[5] = DateFormat.getDateInstance(DateFormat.LONG);
 		dFormats[6] = DateFormat.getDateInstance(DateFormat.FULL);
-		
+
 		for (DateFormat d : dFormats){
-			System.out.println("Formatação da data = "+d.format(calendar.getTime()));
+			System.out.println("Formatação da data = " + d.format(calendar.getTime()));
 		}
-		
+
+
 	}
 
 }

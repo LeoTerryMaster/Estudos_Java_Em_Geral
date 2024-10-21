@@ -34,6 +34,11 @@ public class Wrappes2{
 
 
 		int i = (int) intw.longValue(); //unboxing
+		int ii = intw; //unboxing
+
+		System.out.println("boxing " + intw);
+		System.out.println("Unboxing long (cast) " + i);
+		System.out.println("Unboxing " + ii);
 
 	}
 

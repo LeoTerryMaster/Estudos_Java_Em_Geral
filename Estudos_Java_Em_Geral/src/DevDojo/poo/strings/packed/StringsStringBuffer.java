@@ -6,7 +6,7 @@ public class StringsStringBuffer{
 	public static void main(String[] args){
 
 		long inicio = System.currentTimeMillis();
-		concatStringBuffer(10_000);
+		concatStringBuffer(100_000);
 		long fim = System.currentTimeMillis();
 
 		System.out.println("Tempo gasto para StringBuilder " + (fim - inicio) + " ms");

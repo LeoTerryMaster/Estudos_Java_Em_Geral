@@ -16,9 +16,9 @@ public class StringsClass2{
 		System.out.println("Troca o valor da primeira posição peloa da segunda " + nome.replace("L", "LL"));
 
 
-		System.out.println(numeros.substring(0, 5));
-		System.out.println(numeros.substring(5));
-		System.out.println(numeros.substring(0, numeros.length()));
+		System.out.println("substring começa na posição 0 e termina a ultima posição  " + numeros.substring(0, 5));
+		System.out.println("retorna da posição para o final " + numeros.substring(5));
+		System.out.println("Retorna da posição até o final poré não necessariamente usar lenght" + numeros.substring(0, numeros.length()));
 
 
 		System.out.println("Remove espaços " + nome.trim());

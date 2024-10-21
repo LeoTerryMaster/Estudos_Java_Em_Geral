@@ -16,7 +16,7 @@ public class Calendars{
 
 
 		System.out.println("dia da semana  = " + calendar.get(Calendar.DAY_OF_WEEK));// dia da semana 
-		System.out.println("ia do mes = " + calendar.get(Calendar.DAY_OF_MONTH));// dia do mes
+		System.out.println("dia do mes = " + calendar.get(Calendar.DAY_OF_MONTH));// dia do mes
 		System.out.println("dia do ano = " + calendar.get(Calendar.DAY_OF_YEAR));// dia do ano
 		System.out.println("dia da semana no mes = " + calendar.get(Calendar.DAY_OF_WEEK_IN_MONTH)); // dia da semana no mes 
 
@@ -24,7 +24,7 @@ public class Calendars{
 		
 		calendar.add(Calendar.DAY_OF_MONTH, 2);// add 2 dias 
 		calendar.add(Calendar.HOUR, 2);// add 2 horas
-		calendar.roll(Calendar.HOUR, 2);//
+		calendar.roll(Calendar.HOUR, 2);// remove 
 		
 		Date date = calendar.getTime();
 

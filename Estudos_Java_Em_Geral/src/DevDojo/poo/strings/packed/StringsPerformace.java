@@ -9,7 +9,7 @@ public class StringsPerformace{
 		concatString(100_000);
 		long fim = System.currentTimeMillis();
 
-		System.out.println("Tempo gasto para String " + (fim - inicio) + "ms");
+		System.out.print("Tempo gasto para String " + (fim - inicio) + " ms");
 
 	}
 
