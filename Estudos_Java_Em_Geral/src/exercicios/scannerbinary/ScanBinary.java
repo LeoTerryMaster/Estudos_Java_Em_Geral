@@ -19,15 +19,15 @@ public class ScanBinary{
 
 			int binary = Integer.valueOf(pegar, 2);
 
-			System.out.println(binary);
 
-			s.close();
+			System.out.println(binary);
 		}catch(Exception e){
-			System.out.print("só pode ser numero binários");
+			System.out.println("só pode ser numero binários");
 			System.out.println("Error");
 			s.nextLine();
 			e.printStackTrace();
 		}
+		s.close();
 
 
 	}
