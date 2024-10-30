@@ -48,7 +48,7 @@ public class CarroEstatico {
         System.out.println("=============================================");
         System.out.println("Nome = " + this.nome);
         System.out.println("Velocidade Máxima = " + this.velocidadMaxima);
-        System.out.println("Velocidade Limite = " + this.getVelocidadLimite);
+        System.out.println("Velocidade Limite = " + CarroEstatico.getVelocidadLimite);
         System.out.println("=============================================");
     }
 

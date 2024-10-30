@@ -1,7 +1,6 @@
 package DevDojo.poo.polimorfismo.poli2.testes;
 
 import DevDojo.poo.polimorfismo.poli2.Computador;
-import DevDojo.poo.polimorfismo.poli2.Produto;
 import DevDojo.poo.polimorfismo.poli2.Tomate;
 import DevDojo.poo.polimorfismo.poli2.servicos.CalcularImposto;
 
