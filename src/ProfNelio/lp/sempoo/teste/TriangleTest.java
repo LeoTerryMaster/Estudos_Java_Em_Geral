@@ -18,21 +18,18 @@ public class TriangleTest{
 		System.out.println("Enter the measures of triangle X:");
 
 		x.a = s.nextDouble();
-		x.b= s.nextDouble();
-		x.c= s.nextDouble();
+		x.b = s.nextDouble();
+		x.c = s.nextDouble();
 
 		System.out.println("Enter the measures of triangle Y:");
 
 		y.a = s.nextDouble();
-		y.b= s.nextDouble();
-		y.c= s.nextDouble();
+		y.b = s.nextDouble();
+		y.c = s.nextDouble();
 
+		double areaX = x.area();
 
-		double p = (x.a + x.b + x.c) / 2;
-		double areaX = Math.sqrt(p * (p - x.a) * (p - x.b) * (p - x.c));
-
-		p = (y.a + y.b + y.c) / 2;
-		double areaY = Math.sqrt(p * (p - y.a) * (p - y.b) * (p - y.c));
+		double areaY = y.area();
 
 		System.out.println("Triangle X Area: %.4f%\n" + areaX);
 		System.out.println("Triangle Y Area: %.4f%\n" + areaY);
