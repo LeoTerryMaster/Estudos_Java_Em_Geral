@@ -15,19 +15,48 @@ public class ProdutoTest{
 
 
 		Produto produto = new Produto();
-		System.out.print("Escreva o nome ");
+		System.out.println("Escreva:");
+		System.out.print("Nome: ");
 		produto.nome = s.nextLine();
 
-		System.out.print("Escreva o valor do produto ");
+		System.out.print("Preço: ");
 		produto.prince = s.nextDouble();
 
-		System.out.print("Escreva a quantidade ");
+		System.out.print("Quantidade: ");
 		produto.quantidade = s.nextInt();
-		
+
+		System.out.println();
 		produto.imprimir();
-		
-		
-		
+
+		System.out.println();
+		System.out.println(produto);
+
+		System.out.println();
+
+		System.out.print("Esqueva a quantidade para adicional: ");
+		int quantidade = s.nextInt();
+		produto.add(quantidade);
+
+
+		System.out.println();
+		produto.imprimir();
+
+		System.out.println();
+		System.out.println(produto);
+
+
+		System.out.println();
+
+		System.out.print("Esqueva a quantidade para remover: ");
+		quantidade = s.nextInt();
+		produto.add(quantidade);
+
+
+		System.out.println();
+		produto.imprimir();
+
+		System.out.println();
+		System.out.println(produto);
 		s.close();
 
 

@@ -27,7 +27,7 @@ public class Produto{
 
 	@Override
 	public String toString(){
-		return "Produto [nome= " + nome + ", prince= " + prince + ", quantidade= " + quantidade + "]";
+		return "Produto [nome= " + nome + " Preço R$"+String.format("%.2f",prince) + ", quantidade= " + quantidade + "]" +" Valor total = "+TotalInEstoque();
 	}
 
 
