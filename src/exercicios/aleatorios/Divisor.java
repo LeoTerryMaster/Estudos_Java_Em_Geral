@@ -7,6 +7,8 @@ public class Divisor{
 
 	public static void main(String[] args){
 
+		
+		// esta errado
 		Scanner s = new Scanner(System.in);
 		System.out.println("Digite sei divisor: ");
 		int num = s.nextInt();
