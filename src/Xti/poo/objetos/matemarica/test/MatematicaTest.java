@@ -16,6 +16,16 @@ public class MatematicaTest{
 
 		int somar2 = calculo.somar(calculo.maior(35, 99), calculo.maior(25, 85));
 		System.out.println("A soma entre 2 potência  " + somar2);
+
+
+		// raiz quadrada do número
+		int res = calculo.raiz(1500);
+		System.out.println("Raiz quadrada é " + res);
+
+
+		double raiz = Math.sqrt(1500);
+		System.out.printf("%.2f%n", raiz);
+
 	}
 
 
