@@ -30,8 +30,14 @@ public class Matematica{
 		}
 		return raiz;
 	}
-	
-	
-	
+
+	public double somar(double... numeros){
+		double somas = 0;
+		for (double d : numeros){
+			somas += d;
+		}
+		return somas;
+	}
+
 
 }

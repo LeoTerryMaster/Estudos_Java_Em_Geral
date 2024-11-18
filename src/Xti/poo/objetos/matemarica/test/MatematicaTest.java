@@ -26,6 +26,10 @@ public class MatematicaTest{
 		double raiz = Math.sqrt(1500);
 		System.out.printf("%.2f%n", raiz);
 
+
+		double somas = calculo.somar(15, 45, 10, 55, 100);
+		System.out.println("A soma de x e y é " + somas);
+
 	}
 
 
