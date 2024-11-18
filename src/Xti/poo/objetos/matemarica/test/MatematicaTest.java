@@ -28,8 +28,15 @@ public class MatematicaTest{
 
 
 		double somas = calculo.somar(15, 45, 10, 55, 100);
-		System.out.println("A soma de x e y é " + somas);
+		System.out.println("A soma de VarArgs " + somas);
 
+		
+		
+		double[] nu= {15, 45, 10, 55, 100};
+		
+		
+		double somas2 = calculo.somar(nu);
+		System.out.println("A soma de Arrays " + somas2);
 	}
 
 
