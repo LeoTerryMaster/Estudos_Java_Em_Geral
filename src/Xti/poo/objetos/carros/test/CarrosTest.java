@@ -8,11 +8,14 @@ public class CarrosTest{
 	public static void main(String[] args){
 
 
-		Carros fusca = new Carros("Fusca", 130, 1.2, new Motor("F21",1200));
+		
+		// objeto com valores no construtor 
+		Carros fusca = new Carros("Fusca", 130, 1.2, new Motor("F21", 1200));
 		System.out.println(fusca);
 		System.out.println(fusca.motor);
 
 
+		// Objeto com construtores vazio
 		Carros ferrari = new Carros();
 		ferrari.modelo = "Ferrari";
 		ferrari.velocidadeMaxima = 349;
@@ -23,6 +26,15 @@ public class CarrosTest{
 		v12.potencia = 660;
 		ferrari.motor = v12;
 		System.out.println(v12);
+
+
+		
+		// terceiro tipo de objeto com valores no construtor
+		Carros Koni = new Carros("Koni", 430, 13.1);
+		Motor k = new Motor("V8", 1118);
+		Koni.motor = k;
+		System.out.println(Koni);
+		System.out.println(Koni.motor);
 
 	}
 

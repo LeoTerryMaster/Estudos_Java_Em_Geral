@@ -18,12 +18,8 @@ public class Carros{
 	}
 
 
-
 	public Carros(String modelo,int velocidadeMaxima,double segundosDeZeroACem,Motor motor){
-		super();
-		this.modelo = modelo;
-		this.velocidadeMaxima = velocidadeMaxima;
-		this.segundosDeZeroACem = segundosDeZeroACem;
+		this(modelo, velocidadeMaxima, segundosDeZeroACem);
 		this.motor = motor;
 	}
 
