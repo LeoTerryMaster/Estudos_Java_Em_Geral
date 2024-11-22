@@ -39,5 +39,14 @@ public class Matematica{
 		return somas;
 	}
 
+	
+	public double somar2(String titulos, double... numeros){
+		System.out.print(titulos);
+		double somas = 0;
+		for (double d : numeros){
+			somas += d;
+		}
+		return somas;
+	}
 
 }
