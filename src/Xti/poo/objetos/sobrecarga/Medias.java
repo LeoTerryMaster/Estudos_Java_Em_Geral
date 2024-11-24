@@ -30,7 +30,7 @@ public class Medias{
 	
 	public double media(double ... numeros) {
 		System.out.print("Média (double ... numeros) = ");
-		return this.somar(numeros)/ numeros.length;
+		return somar(numeros)/ numeros.length;
 	}
 
 }

@@ -24,7 +24,7 @@ public class CarrosTest{
 		Motor v12 = new Motor();
 		v12.tipo = "V12";
 		v12.potencia = 660;
-		ferrari.motor = v12;
+		ferrari.motor = v12; // adiciona o motor ao carro
 		System.out.println(v12);
 
 
