@@ -9,8 +9,6 @@ public class Medias{
 	}
 
 
-	
-	
 	public double somar(double... numeros){
 		double somas = 0;
 		for (double d : numeros){
@@ -18,19 +16,18 @@ public class Medias{
 		}
 		return somas;
 	}
-	
-	
-	
+
+
 	public double media(String x,String y){
 		System.out.print("Média (String x, String y) = ");
 		double ix = Double.parseDouble(x);
 		double iy = Double.parseDouble(y);
 		return (ix + iy) / 2;
 	}
-	
-	public double media(double ... numeros) {
+
+	public double media(double... numeros){
 		System.out.print("Média (double ... numeros) = ");
-		return somar(numeros)/ numeros.length;
+		return somar(numeros) / numeros.length;
 	}
 
 }
