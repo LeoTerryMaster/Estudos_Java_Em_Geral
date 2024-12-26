@@ -28,14 +28,14 @@ public class LocalDates{
 		System.out.println(localDate.get(ChronoField.DAY_OF_MONTH));
 		System.out.println(localDate.get(ChronoField.DAY_OF_WEEK));
 		
-		System.out.println(localDate);
+		System.out.println("original "+localDate);
 		
 		LocalDate agora = LocalDate.now();
 		System.out.println(agora);
 		
 		agora = agora.plusDays(4);
 		
-		System.out.println(agora);
+		System.out.println("data  de hoje "+agora);
 		
 		System.out.println(LocalDate.MAX);
 		System.out.println(LocalDate.MIN);

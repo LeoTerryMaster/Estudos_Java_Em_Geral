@@ -16,11 +16,11 @@ public class LocalTimes{
 
 		LocalTime timeNow = LocalTime.now();
 		
-		System.out.println(timeNow);
-		System.out.println(timeNow.getHour());
-		System.out.println(timeNow.getMinute());
-		System.out.println(timeNow.getSecond());
-		System.out.println(timeNow.get(ChronoField.HOUR_OF_DAY));
+		System.out.println("Retorna a hora de agora "+timeNow);
+		System.out.println("Retorna a hora "+timeNow.getHour());
+		System.out.println("Retorna o minuto "+timeNow.getMinute());
+		System.out.println("Retorna o segundo "+timeNow.getSecond());
+		System.out.println("Retorna a hora do dia "+timeNow.get(ChronoField.HOUR_OF_DAY));
 		System.out.println(LocalTime.MIN);
 		System.out.println(LocalTime.MAX);
 

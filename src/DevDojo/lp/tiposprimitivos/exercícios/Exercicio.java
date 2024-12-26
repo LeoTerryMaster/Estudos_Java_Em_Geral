@@ -1,4 +1,4 @@
-package DevDojo.lp.tiposprimitivos.exercÃ­cios;
+package DevDojo.lp.tiposprimitivos.exercícios;
 
 public class Exercicio {
 

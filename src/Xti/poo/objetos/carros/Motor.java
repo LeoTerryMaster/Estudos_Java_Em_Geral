@@ -9,7 +9,6 @@ public class Motor{
 	public Motor(){
 	}
 	public Motor(String tipo,int potencia){
-		super();
 		this.tipo = tipo;
 		this.potencia = potencia;
 	}

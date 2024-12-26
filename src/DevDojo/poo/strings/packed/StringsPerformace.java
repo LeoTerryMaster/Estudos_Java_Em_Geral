@@ -18,6 +18,7 @@ public class StringsPerformace{
 		String texto = "";
 		for (int i = 0; i < tamanho; i++){
 			texto += i;
+
 		}
 	}
 
