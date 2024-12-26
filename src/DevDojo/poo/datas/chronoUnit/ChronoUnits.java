@@ -15,11 +15,8 @@ public class ChronoUnits{
 
 		Period p1 = Period.between(now, nowAfterTwoYears);
 
-
 		System.out.println(p1);
-		
-		
-		
+
 		Period p2 = Period.ofDays(10);
 		Period p3 = Period.ofWeeks(10);
 		Period p4 = Period.ofMonths(10);

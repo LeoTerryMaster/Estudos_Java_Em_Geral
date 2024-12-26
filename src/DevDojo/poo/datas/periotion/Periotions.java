@@ -24,10 +24,10 @@ public class Periotions{
 		Period p4 = Period.ofMonths(10);
 		Period p5 = Period.ofYears(10);
 
-		System.out.println(p2);
-		System.out.println(p3);
-		System.out.println(p4);
-		System.out.println(p5);
+		System.out.println("10 dias "+p2);
+		System.out.println("10 semanas "+p3);
+		System.out.println("10 meses "+p4);
+		System.out.println("10 anos "+p5);
 	}
 
 }
