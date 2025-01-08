@@ -20,10 +20,10 @@ public class EscreverFilesRescreva{
 
 			boolean isExiste = file.exists();
 			if(isExiste){
-				fw.write("          Eu Leandro vou ser o melhor programador do mundo!!! \n           Começando pelo Brasil serei o melhor na programação");
+				fw.write("          Eu Leandro vou ser o melhor programador do mundo!!! \n           Comeï¿½ando pelo Brasil serei o melhor na prograÃ§Ã£o");
 				fw.flush();
 			}else{
-				System.out.println("Não existe arquivo para ser escrito");
+				System.out.println("nÃ£o existe arquivo para ser escrito");
 			}
 
 

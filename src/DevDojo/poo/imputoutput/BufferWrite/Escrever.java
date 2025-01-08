@@ -16,7 +16,7 @@ public class Escrever{
 
 			BufferedWriter bw = new BufferedWriter(fw);
 
-			bw.write("          Eu Leandro vou ser o melhor programador do mundo!!!          Começando pelo Brasil serei o melhor na programação");
+			bw.write("          Eu Leandro vou ser o melhor programador do mundo!!!          Comeï¿½ando pelo Brasil serei o melhor na programaÃ§Ã£o");
 			bw.newLine();
 			bw.flush();
 
