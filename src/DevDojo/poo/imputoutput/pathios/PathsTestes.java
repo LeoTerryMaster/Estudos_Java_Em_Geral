@@ -1,4 +1,4 @@
-package DevDojo.poo.imputoutput;
+package DevDojo.poo.imputoutput.pathios;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;

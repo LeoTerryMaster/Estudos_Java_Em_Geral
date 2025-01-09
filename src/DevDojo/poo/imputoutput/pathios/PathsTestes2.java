@@ -1,4 +1,4 @@
-package DevDojo.poo.imputoutput;
+package DevDojo.poo.imputoutput.pathios;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -11,6 +11,7 @@ public class PathsTestes2{
 
 		Path pastaPath = Paths.get("I:\\GITHUB\\PROJETOS_EM_ANDAMENTOS\\Estudos_Java_Em_Geral\\src\\DevDojo\\poo\\imputoutput\\pathsio\\pasta");
 
+			
 		if(Files.notExists(pastaPath)){
 			Path pastaDiterorio = Files.createDirectory(pastaPath);
 		}
@@ -18,11 +19,10 @@ public class PathsTestes2{
 		Path subDiretorio = Files.createDirectories(subPasta);
 		System.out.println(subDiretorio);
 		
-		Path filesPegarDiretorio= Paths.get(subPasta, "files.txt");
-		if(Files.notExists(filesPegarDiretorio)){
-			Path pastaDiterorio = Files.createDirectory(filesPegarDiretorio);
-		}
+//		Path filesPegarDiretorio= Paths.get(subPasta, "files.txt");
+//		if(Files.notExists(filesPegarDiretorio)){
+//			Path pastaDiterorio = Files.createDirectory(filesPegarDiretorio);
 		
-	}
+//	}
 
-}
+}}
