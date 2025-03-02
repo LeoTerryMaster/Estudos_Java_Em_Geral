@@ -7,5 +7,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="lib/mariadb-java-client-2.7.11.jar"/>
+	<classpathentry kind="lib" path="lib/javaparser-core-3.26.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
