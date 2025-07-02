@@ -22,7 +22,7 @@ public class Variaveis{
 		
 		int[][] numeros = {{1, 2, 3, 4, 5},{1, 2, 3, 4, 5}};
 		System.out.print("Números: ");
-		for (int numero : numeros[2]) {
+		for (int numero : numeros[1]) {
 			System.out.print(numero + " ");
 		}
 	}

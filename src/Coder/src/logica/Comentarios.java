@@ -1,4 +1,4 @@
-package Coder.src.logica.comentarios;
+package Coder.src.logica;
 
 /**
  * Comentarios.java
