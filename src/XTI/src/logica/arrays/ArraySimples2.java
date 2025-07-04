@@ -1,4 +1,4 @@
-package XTI.src.logica.Arrays;
+package XTI.src.logica.arrays;
 
 public class ArraySimples2{
 
