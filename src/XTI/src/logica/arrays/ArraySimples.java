@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class ArraySimples{
 
 
+	@SuppressWarnings("unlikely-arg-type")
 	public static void main(String[] args){
 
 		String[] nomes = new String[5];
