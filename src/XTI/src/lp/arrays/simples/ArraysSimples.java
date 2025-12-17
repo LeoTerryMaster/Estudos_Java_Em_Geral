@@ -8,12 +8,12 @@ public class ArraysSimples{
 
 
 		String[] paises = {
-			"Brasil,",
-			"Russia,",
-			"Argentina,",
-			"Bulgaria,",
-			"Finlandia,",
-			"China,",};
+			"Brasil",
+			"Russia",
+			"Argentina",
+			"Bulgaria",
+			"Finlandia",
+			"China"};
 
 
 		System.out.println("indice  = paises[0]  " + paises[0]);

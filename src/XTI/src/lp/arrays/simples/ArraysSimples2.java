@@ -31,7 +31,7 @@ public class ArraysSimples2{
 		System.out.println();
 
 		int i = Arrays.binarySearch(impares, 5);
-		System.out.println(i);		
+		System.out.println(" binarysourt = "+i);		
 		System.out.println();
 		
 		Arrays.sort(impares, 4 ,impares.length);

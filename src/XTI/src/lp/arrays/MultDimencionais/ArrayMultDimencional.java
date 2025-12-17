@@ -1,5 +1,7 @@
 package XTI.src.lp.arrays.MultDimencionais;
 
+import java.util.Arrays;
+
 public class ArrayMultDimencional{
 
 
@@ -37,7 +39,17 @@ public class ArrayMultDimencional{
 		
 		
 		for (String[] d : duas){
-			System.out.println(d);
+			System.out.println("varios "+Arrays.toString(d));
+		}
+		
+		
+		System.out.println();
+		
+		for (String[] s : duas){
+			
+			
+			System.out.println("Todos "+Arrays.toString(s));
+			
 		}
 
 	}
