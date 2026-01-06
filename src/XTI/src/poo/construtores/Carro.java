@@ -15,9 +15,7 @@ public class Carro{
 
 
 	public Carro(String modelo,int vlocidadeMaxima,double segundosZeroACem){
-		this.modelo = modelo;
-		this.vlocidadeMaxima = vlocidadeMaxima;
-		this.segundosZeroACem = segundosZeroACem;
+		this(modelo, vlocidadeMaxima, segundosZeroACem, null);
 
 	}
 
@@ -36,18 +34,14 @@ public class Carro{
 	}
 
 
-	
 	public Motor getMotor(){
 		return motor;
 	}
 
 
-	
 	public void setMotor(Motor motor){
 		this.motor = motor;
 	}
-	
-	
 
 
 }
