@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/commons-codec-1.10.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/commons-dbcp-1.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/commons-io-2.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/commons-lang3-3.12.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/commons-math-2.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/commons-pool-1.6.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/dom4j-2.2.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/ecj-4.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/geoip-api-1.2.10.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/jacksum-1.7.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/javax.mail-1.5.5.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/json-20141113.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/lameguard-1.9.5.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/log4j-1.2.17.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/mariadb-java-client-2.7.11.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/mesp-1.02.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/netty-3.5.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/org.napile.primitive.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/slf4j-api-1.6.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/slf4j-log4j12-1.6.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/trove-3.0.3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/worldwind.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/ehcache-core-2.5.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/HikariCP-5.1.0.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/../../Highfive50x/java" expected_position="0" />
+      <src_folder value="file://$MODULE_DIR$/../../Highfive50x/scripts/scripts" expected_position="1" />
+      <src_folder value="file://$MODULE_DIR$/../../Highfive50x/dist/gameserver/config" expected_position="2" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../Highfive50x/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../Highfive50x">
+      <sourceFolder url="file://$MODULE_DIR$/../../Highfive50x/dist/gameserver/config" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Highfive50x/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Highfive50x/scripts/scripts" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="junit4">
+        <CLASSES>
+          <root url="$MAVEN_REPOSITORY$/junit/junit/4.13.2/junit-4.13.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-codec-1.10.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/commons-codec-1.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-dbcp-1.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/commons-dbcp-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-io-2.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/commons-io-2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang3-3.12.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/commons-lang3-3.12.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-math-2.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/commons-math-2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-pool-1.6.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/commons-pool-1.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="dom4j-2.2.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/dom4j-2.2.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ecj-4.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/ecj-4.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="geoip-api-1.2.10.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/geoip-api-1.2.10.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jacksum-1.7.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/jacksum-1.7.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.mail-1.5.5.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/javax.mail-1.5.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="json-20141113.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/json-20141113.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lameguard-1.9.5.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/lameguard-1.9.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="log4j-1.2.17.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/log4j-1.2.17.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mariadb-java-client-2.7.11.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/mariadb-java-client-2.7.11.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mesp-1.02.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/mesp-1.02.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="netty-3.5.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/netty-3.5.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.napile.primitive.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/org.napile.primitive.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-api-1.6.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/slf4j-api-1.6.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-log4j12-1.6.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/slf4j-log4j12-1.6.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="trove-3.0.3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/trove-3.0.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="worldwind.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/worldwind.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ehcache-core-2.5.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/ehcache-core-2.5.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="HikariCP-5.1.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Highfive50x/dist/libs/HikariCP-5.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
