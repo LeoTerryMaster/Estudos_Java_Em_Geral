@@ -1,10 +1,10 @@
 package XTI.src.poo.enums;
 
-public enum Enums{
+public enum PecasXadez{
 	PEAO,
 	TORRE,
 	CAVALO,
 	BISPO,
-	Rainha,
+	RAINNHA,
 	REI
 }
