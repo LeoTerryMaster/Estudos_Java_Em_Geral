@@ -6,6 +6,10 @@ public class AnimalTeste{
 	public static void barulhos(Animal animal){
 		animal.fezBarulho();
 	}
+	
+	public static void dormiu(Animal animal){
+		animal.dormi();
+	}
 
 
 	public static void main(String[] args){
@@ -14,7 +18,7 @@ public class AnimalTeste{
 		Cachorro tot = new Cachorro(peso, "Ração de carne");
 		//		tot.fezBarulho();
 		barulhos(tot);
-		tot.dormi();
+		dormiu(tot);
 
 		System.out.println(tot);
 
